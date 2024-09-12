@@ -1,6 +1,6 @@
-﻿# CADEntityInspector 🛠️
+﻿# CADEntityInspector-DXF 🛠️
 
-CADEntityInspector je aplikace pro analýzu a správu DXF souborů, která umožňuje zobrazení a manipulaci s entitami v DXF souborech. Aplikace je postavena na knihovně `netDxf` a je určena pro práci s výkresovými soubory v prostředí Windows.
+CADEntityInspector je aplikace pro analýzu a správu **DXF** souborů, která umožňuje zobrazení a manipulaci s entitami v DXF souborech. Aplikace je postavena na knihovně `netDxf` a je určena pro práci s výkresovými soubory v prostředí Windows.
 
 ## Funkce 🚀
 
